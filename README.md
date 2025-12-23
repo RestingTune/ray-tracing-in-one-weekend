@@ -10,8 +10,8 @@ The bulk of the path tracer uses no external libraries. However, this would expo
 
 To build the project, please run the following commands
 ```
-git clone --recursive repo
-cd repo
+git clone --recursive https://github.com/RestingTune/ray-tracing-in-one-weekend.git
+cd ray-tracing-in-one-weekend
 ./setup.sh
 ```
 
