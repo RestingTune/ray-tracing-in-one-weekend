@@ -2,9 +2,9 @@
 
 ## About
 
-This project is a **C++** implementation of the brute-force **path tracer** from the _Ray Tracing in One Weekend_ book. This path tracer can render scenes with **multiple spheres**, which can be of 3 distinct materials (**lambertian**, **metal**, **dielectric**). It also includes a **positionable camera** with **anti-aliasing** and **defocus blur**.
+This project is a C++ implementation of the brute-force path tracer from the _Ray Tracing in One Weekend_ book. This path tracer can render scenes with multiple spheres, which can be of 3 distinct materials (lambertian, metal, dielectric). It also includes a positionable camera with anti-aliasing and defocus blur.
 
-The bulk of the path tracer uses **no external libraries**. However, this would export the image to the less known **PPM format**. We've included the _stb_ library to export the generated image to more popular image format, namely **PNG**.
+The bulk of the path tracer uses no external libraries. However, this would export the image to the less known PPM format. We've included the _stb_ library to export the generated image to more popular image format, namely PNG.
 
 ## Build
 
