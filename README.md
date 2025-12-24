@@ -12,7 +12,12 @@ To build the project, please run the following commands
 ```
 git clone --recursive https://github.com/RestingTune/ray-tracing-in-one-weekend.git
 cd ray-tracing-in-one-weekend
-./setup.sh
+./build.sh
+```
+
+You can run the main executable through this command
+```
+./run.sh
 ```
 
 ## External link
